@@ -59,7 +59,8 @@
   <ban name="wernmz" reason="dontknow" accountid="STEAM_1:1:774057320" />
   <ban name="km4122" reason="dontknow" accountid="STEAM_1:1:717100074" />
   <ban name="Astro" reason="youknow" accountid="STEAM_1:0:59136769" />
-  <ban name="Kinzo" reason="youknow" accountid="STEAM_0:0:412744052" />
-  <ban name="76561199166519055" reason="Tiny airlines" accountid="STEAM_0:1:603126663" />
-  <ban name="76561199652289586" reason="MGE snaiper" accountid="STEAM_0:0:846011929" />
+  <ban name="Kinzo" reason="youknow" accountid="STEAM_1:0:412744052" />
+  <ban name="Tiny airlines" reason="possible" accountid="STEAM_1:1:603126663" />
+  <ban name="MGE snaiper" reason="possible" accountid="STEAM_1:0:846011929" />
+  <ban name="_CuteFoxy_" reason="youknow" accountid="STEAM_1:1:460737865" />  
 </bannedplayers>
