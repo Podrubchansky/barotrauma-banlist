@@ -63,5 +63,9 @@
   <ban name="76561199166519055" reason="possible" accountid="STEAM_1:1:603126663" />
   <ban name="76561199652289586" reason="possible" accountid="STEAM_1:0:846011929" />
   <ban name="76561199295933088" reason="youknow" accountid="STEAM_1:0:667833680" />
-  <ban name="76561199079876015" reason="youknow" accountid="STEAM_1:1:559805143" />  
+  <ban name="76561199079876015" reason="youknow" accountid="STEAM_1:1:559805143" />
+  <ban name="76561198323500051" reason="possible" accountid="STEAM_1:1:181617161" />
+  <ban name="76561198129693078" reason="possible" accountid="STEAM_1:0:84713675" />
+  <ban name="76561199778322388" reason="possible" accountid="STEAM_1:0:909028330" />
+  <ban name="76561199482677455" reason="possible" accountid="STEAM_1:1:761205863" />
 </bannedplayers>
