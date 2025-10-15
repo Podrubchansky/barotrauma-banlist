@@ -63,5 +63,9 @@
   <ban name="Tiny airlines" reason="possible" accountid="STEAM_1:1:603126663" />
   <ban name="MGE snaiper" reason="possible" accountid="STEAM_1:0:846011929" />
   <ban name="kemelCase" reason="youknow" accountid="STEAM_1:0:667833680" />
-  <ban name="NormanPenisuga" reason="youknow" accountid="STEAM_1:1:559805143" />  
+  <ban name="NormanPenisuga" reason="youknow" accountid="STEAM_1:1:559805143" />
+  <ban name="ClayTeck" reason="possible" accountid="STEAM_1:1:181617161" />
+  <ban name="Lucky" reason="possible" accountid="STEAM_1:0:84713675" />
+  <ban name="Nikitas Venizelos" reason="possible" accountid="STEAM_1:0:909028330" />
+  <ban name="GrandBabushka1356" reason="possible" accountid="STEAM_1:1:761205863" />
 </bannedplayers>
