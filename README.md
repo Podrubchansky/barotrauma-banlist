@@ -1,1 +1,1 @@
-List of "good" persons.
+List of cheaters.
