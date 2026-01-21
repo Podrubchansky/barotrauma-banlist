@@ -57,7 +57,7 @@
   <ban name="76561198847722732" reason="dontknow" accountid="STEAM_1:0:443728502" />
   <ban name="76561199506581922" reason="dontknow" accountid="STEAM_1:0:773158097" />
   <ban name="76561199508380369" reason="dontknow" accountid="STEAM_1:1:774057320" />
-  <ban name="76561199394465877" reason="dontknow" accountid="STEAM_1:1:717100074" />
+  <ban name="76561199394465877" reason="youknow" accountid="STEAM_1:1:717100074" />
   <ban name="76561198078539266" reason="youknow" accountid="STEAM_1:0:59136769" />
   <ban name="76561198785753832" reason="youknow" accountid="STEAM_1:0:412744052" />
   <ban name="76561199166519055" reason="possible" accountid="STEAM_1:1:603126663" />
@@ -77,4 +77,18 @@
   <ban name="76561199731894204" reason="possible" accountid="STEAM_1:0:885814238" />
   <ban name="76561199479863654" reason="possible" accountid="STEAM_1:0:759798963" />
   <ban name="76561199419107871" reason="possible" accountid="STEAM_1:1:729421071" />
+  <ban name="76561198977792404" reason="possible" accountid="STEAM_1:0:508763338" />
+  <ban name="76561199863230516" reason="possible" accountid="STEAM_1:0:951482394" />
+  <ban name="76561199098037279" reason="possible" accountid="STEAM_1:1:568885775" />
+  <ban name="76561199650097705" reason="possible" accountid="STEAM_1:1:844915988" />
+  <ban name="76561198949672308" reason="possible" accountid="STEAM_1:0:494703290" />
+  <ban name="76561199166839439" reason="possible" accountid="STEAM_1:1:603286855" />
+  <ban name="76561199187610841" reason="possible" accountid="STEAM_1:1:613672556" />
+  <ban name="76561199487205050" reason="possible" accountid="STEAM_1:0:763469661" />
+  <ban name="76561198794208818" reason="possible" accountid="STEAM_1:0:416971545" />
+  <ban name="76561199629199954" reason="possible" accountid="STEAM_1:0:834467113" />
+  <ban name="76561198826960625" reason="possible" accountid="STEAM_1:1:433347448" />
+  <ban name="76561199482677455" reason="possible" accountid="STEAM_1:1:761205863" />
+  <ban name="76561199130099657" reason="possible" accountid="STEAM_1:1:584916964" />
+  <ban name="76561198930519654" reason="possible" accountid="STEAM_1:0:485126963" />
 </bannedplayers>
